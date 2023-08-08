@@ -9,7 +9,7 @@ Stacks contributors are committed to propelling the Bitcoin economy forward. Cur
 ## Where can I learn more about active Stacks Core Eng initiatives?
 
 - [Product Requirements Document for sBTC](sbtc-prd.md).
-- [Product Requirements Document for sBTC Signer](sbtc-signer-prd.md).
+- [Product Requirements Document for sBTC Signer](https://github.com/stacks-network/stacks/blob/master/sBTC/sbtc_signer.md).
 
 | Initiative          | Engineering Lead                     | Technical Specification Document   | Repo                                                        |
 | ------------------- | ------------------------------------ | ---------------------------------- | ----------------------------------------------------------- |
